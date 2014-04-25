@@ -1,0 +1,4 @@
+.DS_Store
+
+# build artifacts from each example
+looped_closure/looped_closure
